@@ -1,3 +1,15 @@
+<h1>Dashboard Page Show how many task is for user</h1>
+![屏幕截图 2024-08-02 011229](https://github.com/user-attachments/assets/a7837a8f-0c6d-4d03-b9e9-491c9facabb5)
+
+<h1>Project/Task Pages show  the list of project/task and can create new with hitting the 'Add New' button</h1>
+<p>(the auto-generate image cannot show but user uploaded image is show)</p>
+![屏幕截图 2024-08-02 011820](https://github.com/user-attachments/assets/0d609f64-dfc1-4e8c-8912-d4f33af79ecf)
+
+<h1>Edit/Create New Page View</h1>
+![屏幕截图 2024-08-02 012113](https://github.com/user-attachments/assets/9dc2899f-21cb-44e7-aa09-768b3af37d58)
+![屏幕截图 2024-08-02 012142](https://github.com/user-attachments/assets/5ea21948-9a10-4549-be31-0cebaddc47ba)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
